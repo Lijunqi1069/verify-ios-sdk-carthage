@@ -66,6 +66,7 @@
 		2AE0DE6D1B80F92E008C308F /* SearchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE0DE6C1B80F92E008C308F /* SearchRequest.swift */; };
 		2AE0DE701B80F937008C308F /* SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE0DE6F1B80F937008C308F /* SearchResponse.swift */; };
 		2AE0DE731B80FDD9008C308F /* SDKSearchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE0DE721B80FDD9008C308F /* SDKSearchService.swift */; };
+		F7790B281C0CA7B500F0FBA1 /* NexmoClient.swift in Headers */ = {isa = PBXBuildFile; fileRef = 2A26A7721B6168C20062B9FD /* NexmoClient.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -388,6 +389,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2ABA3ABF1B6166A800EB4842 /* VerifyIosSdk.h in Headers */,
+				F7790B281C0CA7B500F0FBA1 /* NexmoClient.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
