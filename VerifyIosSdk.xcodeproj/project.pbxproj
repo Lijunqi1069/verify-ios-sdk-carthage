@@ -460,20 +460,6 @@
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Nexmo Inc.";
-				TargetAttributes = {
-					2A6B60751B67A04B005378E0 = {
-						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = WA7RC9M55T;
-					};
-					2A6B60971B67A078005378E0 = {
-						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = WA7RC9M55T;
-					};
-					2ABA3AB81B6166A800EB4842 = {
-						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = WA7RC9M55T;
-					};
-				};
 			};
 			buildConfigurationList = 2ABA3AB31B6166A800EB4842 /* Build configuration list for PBXProject "VerifyIosSdk" */;
 			compatibilityVersion = "Xcode 3.2";
