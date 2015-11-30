@@ -15,3 +15,4 @@ FOUNDATION_EXPORT double VerifyIosSdkVersionNumber;
 FOUNDATION_EXPORT const unsigned char VerifyIosSdkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <VerifyIosSdk/PublicHeader.h>
+#import <VerifyIosSdk/NexmoClient.swift>
